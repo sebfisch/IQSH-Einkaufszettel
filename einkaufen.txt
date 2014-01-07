@@ -3,5 +3,6 @@ Bier
 Sushireis
 Mineralwasser
 Tomaten
-Salz
 Sellerie
+Servietten
+
